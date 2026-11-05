@@ -1,6 +1,6 @@
 # Crusoe hackathons
 
-Projects built on Crusoe at hackathons Crusoe hosts or sponsors, grouped by event. Each event has its own page with the winners and a table of every project that used Crusoe: what it does, how it used Crusoe, the team, and links to the code and demo. The same data is available as JSON under [`data/`](data/).
+Projects built on Crusoe at hackathons Crusoe hosts or sponsors, grouped by event. Each event has its own page listing the projects that used Crusoe: what each does, how it used Crusoe, the team, and links to the code and demo. The same data is available as JSON under [`data/`](data/).
 
 This repository is a companion to the [Crusoe Developer Hub](https://github.com/crusoecloud/crusoe-developer-hub), where each event's participant kit lives under [`examples/hackathons/`](https://github.com/crusoecloud/crusoe-developer-hub/tree/main/examples/hackathons).
 
@@ -9,7 +9,7 @@ This repository is a companion to the [Crusoe Developer Hub](https://github.com/
 | Event | Date | Hosted with | Projects on Crusoe | Top finishers |
 | --- | --- | --- | --- | --- |
 | [The AI Conference Hack Day 2026](the-ai-conference-hack-day-2026/) | September 29, 2026 | HackerSquad, at The AI Conference, San Francisco | 40 of 83 submissions | Thermal Crusoe, Safe Scribe, Deja |
-| [The Recursive Agents Hackathon](recursive-agents-hackathon-2026/) | October 17, 2026 | Cerebral Valley, San Francisco | all 90 gallery projects | Etch, SPARKLETEAM, AGI Factory |
+| [The Recursive Agents Hackathon](recursive-agents-hackathon-2026/) | October 17, 2026 | Cerebral Valley, San Francisco | top 3 of 90 submissions | Etch, SPARKLETEAM, AGI Factory |
 
 ## Build on Crusoe
 
