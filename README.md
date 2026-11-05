@@ -9,7 +9,7 @@ This repository is a companion to the [Crusoe Developer Hub](https://github.com/
 | Event | Date | Hosted with | Projects on Crusoe | Top finishers |
 | --- | --- | --- | --- | --- |
 | [The AI Conference Hack Day 2026](the-ai-conference-hack-day-2026/) | September 29, 2026 | HackerSquad, at The AI Conference, San Francisco | 40 of 83 submissions | Thermal Crusoe, Safe Scribe, Deja |
-| [The Recursive Agents Hackathon](recursive-agents-hackathon-2026/) | October 17, 2026 | Cerebral Valley, San Francisco | top 3 of 90 submissions | Etch, SPARKLETEAM, AGI Factory |
+| [The Recursive Agents Hackathon](recursive-agents-hackathon-2026/) | October 17, 2026 | Cerebral Valley, San Francisco | top 3 of 108 submissions | Etch, SPARKLETEAM, AGI Factory |
 
 ## Build on Crusoe
 

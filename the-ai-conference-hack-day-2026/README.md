@@ -2,7 +2,7 @@
 
 [The AI Conference Hack Day 2026](https://hackersquad.io/events/the-ai-conference-hack-day-2026) ran on September 29, 2026 at Pier 48 Shed B in San Francisco, organized by [HackerSquad](https://hackersquad.io/) alongside The AI Conference. Crusoe sponsored the event and funded the overall cash prize pool; projects had to use Crusoe to qualify for the overall prizes.
 
-Teams submitted 83 projects. The 40 below list Crusoe in their stack on their HackerSquad project page. Descriptions and the Crusoe usage notes come from each project page and, where the repository is public, its README.
+Teams submitted 83 projects, and 40 of them list Crusoe in their stack on their HackerSquad project page. All 40 are listed below. Descriptions and the Crusoe usage notes come from each project page and, where the repository is public, its README.
 
 ## Overall winners
 
